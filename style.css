@@ -18,10 +18,16 @@ h1{
 input, select, button{
     margin: 10px;
     align-items: center
-    
 }
 #result{
     margin: 10px;
-    text-align: left;
+    text-indent: 2%;
 }
 
+footer{
+    text-align: center;
+    margin-top: 30px;
+}
+p{
+    margin-top: 1%;
+}
