@@ -10,14 +10,15 @@ h1{
     background-color:white; 
     border-radius: 25px;
     color: black;
-    width: 300px;
+    width: 480px;
     padding: 20px;
-    margin: auto
+    margin: auto;
+    align-items: center;
 }
-
 input, select, button{
     margin: 10px;
-    text-align: left;
+    align-items: center
+    
 }
 #result{
     margin: 10px;
